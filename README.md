@@ -1,4 +1,4 @@
-#Media Hub Start Menu
+# Media Hub Start Menu
 
 After aquiring a mini PC from a friend I decided to use it to create an all round media hub for the
 living room.
